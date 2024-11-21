@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703703720443",
+    "project_id": "mydbbase-cff2c",
+    "storage_bucket": "mydbbase-cff2c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703703720443:android:759ac9fc9183f434c92b5e",
+        "android_client_info": {
+          "package_name": "com.example.mykfirebaserehz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtklNh-YMPq8Z7Fbt0isBYEh846uABpMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
